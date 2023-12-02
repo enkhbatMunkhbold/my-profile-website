@@ -1,7 +1,8 @@
 body {
-    background: blue;
+    background-color: blue;
 }
 
-h1 {
-    color: antiquewhite;
+h1, h2 {
+    text-align: center;
+    color:yellow;
 }
