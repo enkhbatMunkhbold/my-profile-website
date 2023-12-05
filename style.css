@@ -1,8 +1,21 @@
 body {
-    background-color: blue;
+    background-image: url('./images/matrix.gif');
 }
 
-h1, h2 {
-    text-align: center;
-    color:yellow;
+.card-text, .card-title {
+    text-align: left;
+    font-family: 'Merriweather', serif;
+}
+
+div.card, .bg-body-tertiary {
+    margin-top: 6rem;
+    justify-content: center; 
+}
+
+.card-img-top {
+    padding: 5px;
+}
+
+img.contact {
+    margin-right: 10px;
 }
