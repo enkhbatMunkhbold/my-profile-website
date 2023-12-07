@@ -19,3 +19,34 @@ div.card, .bg-body-tertiary {
 img.contact {
     margin-right: 10px;
 }
+
+div.info {
+    margin-top: 30px;
+    background-color: white;
+    text-align: left;
+}
+
+div.navbar-brand {
+    margin-right: 20px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+li {
+    height: 163px;
+    font-weight: bold;
+    color: blue;
+}
+
+svg {
+    margin: 8px;
+    color: blue;
+}
+
+.internet-profile {
+    margin: 20px 40px;
+    font-size: large;
+}
+
+.btn {
+    margin-left: 180px;
+}
