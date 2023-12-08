@@ -12,8 +12,8 @@ div.card, .bg-body-tertiary {
     justify-content: center; 
 }
 
-.card-img-top {
-    padding: 5px;
+div.info-part {
+    margin-right: 10px;
 }
 
 img.contact {
@@ -27,7 +27,6 @@ div.info {
 }
 
 div.navbar-brand {
-    margin-right: 20px;
     font-family: 'Nunito Sans', sans-serif;
 }
 
@@ -48,5 +47,5 @@ svg {
 }
 
 .btn {
-    margin-left: 180px;
+    margin-left: 25rem;
 }
